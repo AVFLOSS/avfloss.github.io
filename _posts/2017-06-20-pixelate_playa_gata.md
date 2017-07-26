@@ -4,7 +4,7 @@ title: "Pixelate - Playa Gata"
 image:
   teaser: pixelate-teaser.png
 ---
-<iframe width="810" height="456" src="https://www.youtube.com/embed/OAMbK8wuLnU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="810" height="456" src="https://www.youtube.com/embed/KHW_eTEezsQ?rel=0" frameborder="0" allowfullscreen></iframe>
 <p>
 Interactive installation in the CSA PLAYA GATA space, on June 18, 2017, where the people who passed by were photographed. This image is a photo-portrait that takes the webcam and becomes a mosaic in which each tile is another image taken previously and thus in a repetitive way.
 </p>
