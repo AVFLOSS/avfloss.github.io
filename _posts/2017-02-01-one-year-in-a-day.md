@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "One year in a day"
+title: "Video Mapping installation - One year in a day"
 #excerpt: "Instalación de vídeo mapping para el evento "Un año en un día" de Medialab Prado."
 image:
   teaser: mapping-medialab.png

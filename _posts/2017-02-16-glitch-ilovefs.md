@@ -25,10 +25,7 @@ Used tools Audacity and Avidemux.
     <img src="/images/xxx.png">
 	<figcaption>Luis Mir</figcaption>
 </figure>
-<figure class="one">
-    <img src="/images/love-bass-treble.png">
-	<figcaption>Luis Mir</figcaption>
-</figure>
+
 
 <figure class="one">
     <img src="/images/myImage2_0.png">
@@ -62,10 +59,7 @@ Used tools Audacity and Avidemux.
     <img src="/images/eva-glitch-03.png">
 	<figcaption>Eva Bonilla</figcaption>
 </figure>
-<figure>
-    <img src="/images/eva-glitch-04.png">
-	<figcaption>Eva Bonilla</figcaption>
-</figure>
+
 <figure>
     <img src="/images/ciervo.png">
 	<figcaption>Luis F. Roncero</figcaption>
