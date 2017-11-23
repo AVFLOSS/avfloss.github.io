@@ -14,7 +14,7 @@ or because you want to avoid some kind of censorship,
 or maybe you want to promote a hype without die-by-ddos.
 </p>
 <p>
-Developed by <a href="http://surreal.asturnazari.com/">Carlos Padial</a> member of AQVFloss.
+Developed by <a href="http://surreal.asturnazari.com/">Carlos Padial</a> member of AVFloss.
 </p>
 <p>
 Read more at <a href="https://github.com/AVFLOSS/HOIPOI-Cinema-Boilerplate">github.com/AVFLOSS/HOIPOI-Cinema-Boilerplate</a>
