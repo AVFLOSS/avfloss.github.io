@@ -16,23 +16,23 @@ Thanks to Bambara laboratory we knew and tested this unique camara in a two day 
 </p>
 <figure class="one">
     <img src="/images/axiom-taller-01.png">
-	<figcaption>AXION beta presentation</figcaption>
+	<figcaption>AXIOM beta presentation</figcaption>
 </figure>
 <figure class="one">
     <img src="/images/axiom-taller-02.png">
-	<figcaption>AXION beta presentation</figcaption>
+	<figcaption>AXIOM beta presentation</figcaption>
 </figure>
 <figure class="one">
     <img src="/images/axiom-taller-03.png">
-	<figcaption>AXION beta workshop</figcaption>
+	<figcaption>AXIOM beta workshop</figcaption>
 </figure>
 <figure class="one">
     <img src="/images/axiom-taller-04.png">
-	<figcaption>AXION beta workshop</figcaption></figure>
+	<figcaption>AXIOM beta workshop</figcaption></figure>
 <figure class="one">
     <img src="/images/axiom-taller-05.png">
-	<figcaption>AXION beta workshop</figcaption></figure>
+	<figcaption>AXIOM beta workshop</figcaption></figure>
 
 <figure class="one">
     <img src="/images/axiom-taller-06.png">
-	<figcaption>AXION beta workshop</figcaption></figure>
+	<figcaption>AXIOM beta workshop</figcaption></figure>
