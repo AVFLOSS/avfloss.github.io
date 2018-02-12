@@ -1,3 +1,9 @@
+---
+
+permalink: /faq/
+
+---
+
 FAQ (Preguntas Frecuentes)
 
 - ¿Qué es Avfloss?
