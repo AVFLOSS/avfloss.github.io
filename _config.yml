@@ -5,6 +5,7 @@ description: "Grupo de creación y experimentación audiovisual con software lib
 logo: "logoTw.png" # 120x120 px default image used for Twitter summary card
 teaser: "summaryCard.png" # 400x250 px default teaser image used in image archive grid
 locale: en
+lang: en
 #url: http://127.0.0.1:4000
 url : https://avfloss.github.io
 feed:
@@ -24,6 +25,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - octopress-multilingual
+  - octopress-linkblog
+  - octopress-feeds
 
 
 # Site owner

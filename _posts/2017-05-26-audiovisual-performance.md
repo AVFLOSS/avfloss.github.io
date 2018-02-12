@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Audiovisual performance"
+lang: en
 excerpt: "Video mapping, made with Mapmap, for \"Poetic Fragments of Gabriel Garc&iacute;a M&aacute;rquez\" presented at Medialab-Prado."
 image:
   teaser: mapping-teatro-teaser.png

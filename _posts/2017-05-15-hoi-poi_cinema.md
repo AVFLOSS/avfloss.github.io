@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Hoipoi-Cinema :: Boilerplate"
+lang: en
 image:
   teaser: hoi-poi.jpg
 ---

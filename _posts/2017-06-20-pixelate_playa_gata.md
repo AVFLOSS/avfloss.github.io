@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Pixelate - Playa Gata"
+lang: en
 image:
   teaser: pixelate-teaser.png
 ---

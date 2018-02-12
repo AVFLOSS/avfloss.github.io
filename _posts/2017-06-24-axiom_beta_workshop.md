@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "AXIOM - Open Cinema workshop"
+lang: en
 excerpt: "Presentation and Open Cinema camera AXIOM beta workshop imparted by BAMBARA laboratory."
 image:
   teaser: axiom-taller-teaser.png

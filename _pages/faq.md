@@ -1,8 +1,10 @@
 ---
 layout: article
 title: "Frequently Asked Questions"
+lang: es
 permalink: /faq/
 published: false
+
 ---
 
 FAQ (Preguntas Frecuentes)
