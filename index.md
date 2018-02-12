@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "Works"
+title: "Trabajos"
+lang: es
 ---
 
 <div class="tiles">
