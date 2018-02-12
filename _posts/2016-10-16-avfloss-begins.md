@@ -1,7 +1,6 @@
 ---
 layout: article
 title: "AVFLOSS begins"
-lang: en
 excerpt: "This working group wants to serve as a meeting point for people interested in free software for audiovisual works."
 image:
   teaser: avfloss.png

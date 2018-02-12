@@ -1,7 +1,6 @@
 ---
 layout: article
 title: "Glitch - ILoveFS"
-lang: en
 excerpt: "Images from the open session of glitch art with open software tools."
 image:
   teaser: teaser-calif.png

@@ -2,7 +2,6 @@
 layout: archive
 permalink: /
 title: "Works"
-lang: en
 ---
 
 <div class="tiles">

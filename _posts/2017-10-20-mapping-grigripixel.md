@@ -1,7 +1,6 @@
 ---
 layout: article
 title: "Audiovisual performance with Bay Dam"
-lang: en
 image:
   teaser: grigri-0.png
 ---
