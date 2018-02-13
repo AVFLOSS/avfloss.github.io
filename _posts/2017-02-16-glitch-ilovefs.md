@@ -10,7 +10,7 @@ Images from the open session of glitch art with open software tools.
 This session was held at Medialab Prado within the celecrations for the ILoveFS week.
 </p>
 <p>
-Used tools Audacity and Avidemux.
+Used tools <a href="https://www.audacityteam.org/">Audacity</a> and <a href="http://avidemux.sourceforge.net/">Avidemux</a>.
 </p>
 <figure class="one">
     <img src="/images/calif.png">

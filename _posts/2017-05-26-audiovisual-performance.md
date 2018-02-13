@@ -9,7 +9,7 @@ image:
 Collaboration with the projects of "Sound Technologies" and the group "Scenic Research" for a performance experimentation in which dance, theater, music and audiovisual are combined with a connection between body, time and environment.
 </p>
 <p>
-Mapping done with Mapmap.
+Mapping done with <a href="https://mapmapteam.github.io/">Mapmap</a>.
 </p>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9P7jEcuUuGs" frameborder="0" allowfullscreen></iframe>

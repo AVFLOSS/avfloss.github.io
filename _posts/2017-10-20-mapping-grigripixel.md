@@ -13,7 +13,7 @@ During the residence in Madrid of the artist and programmer Bay Dam on the occas
 This project is the collaborative work of the participants in the workshop "video mapping with MAPMAP" that Bai Dam did the week before the performance.
 </p>
 <p>
-Subsequently, a Hackathon was held for the development of the free software program MAPMAP.
+Subsequently, a Hackathon was held for the development of the free software program <a href="https://mapmapteam.github.io/">MAPMAP</a>.
 </p>
 <figure class="one">
     <img src="/images/sin_senial_grigri.png">
