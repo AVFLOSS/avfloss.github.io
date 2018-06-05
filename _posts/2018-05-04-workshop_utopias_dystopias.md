@@ -1,9 +1,6 @@
 ---
 layout: article
 title: "Workshop: utopias and dystopias of free software"
-subtitle:"An Open workshop done in Seville at Libre Graphic Meeting 2018"
-image:
-  teaser: 
 ---  
 
 
