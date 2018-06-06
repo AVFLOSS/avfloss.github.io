@@ -1,6 +1,8 @@
 ---
 layout: article
 title: "Workshop: utopias and dystopias of free software"
+image:
+  teaser: workshop-u-dis-topias-teaser.jpg
 ---  
 <iframe width="810" height="455" src="https://peertube.social/videos/embed/eef713b0-8f74-44e5-b49f-aa6727bbd005" frameborder="0" allowfullscreen></iframe>
 
