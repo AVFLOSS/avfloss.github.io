@@ -3,9 +3,12 @@ layout: article
 title: "Artistic Dissidences"
 excerpt: "AvFLOSS Audiovisual working group at Jaaga. Bangalore"
 image:
-  teaser: artistics-dissidences.png
+  teaser: Aritistic_Dissidences_small.png
 ---
 **AvFLOSS Audiovisual working group at Jaaga**
+<figure class="one">
+    <img src="/images/artistics-dissidences.jpg">
+</figure>
 <p>
 FLOSS, Free Libre Open Source Software means that you can use, copy, share, modify, redistribute and allow free access to the source code of the programs without restrictions.
 </p>
