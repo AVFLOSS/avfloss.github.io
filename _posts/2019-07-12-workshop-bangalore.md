@@ -5,7 +5,7 @@ excerpt: "AvFLOSS Audiovisual working group at Jaaga. Bangalore"
 image:
   teaser: Aritistic_Dissidences_small.png
 ---
-**AvFLOSS Audiovisual working group at Jaaga**
+<strong>AvFLOSS Audiovisual working group at Jaaga</strong>
 <figure class="one">
     <img src="/images/artistics-dissidences.jpg">
 </figure>
@@ -19,7 +19,7 @@ The use of this software has social and philosophical implications in art, build
 <p>The cultural ecosystem based in FLOSS philosophy consists in a processual approach to the concept of artwork in which roles are reevaluated. From people involved in the development of a tool to those working in the final visual results are considered  as parts of a same long process that involve the entire community.
 </p>
 
-**Objectives**
+<strong>Objectives</strong>
 <p>
 To join people and collectives interested to explore free culture concepts and FLOSS tools for audiovisual work as alternatives to mainly used privative programs; artist, programmers and people in general. 
 </p>
@@ -36,7 +36,7 @@ To test different free software tools for audiovisual
 Although the focus is mainly the process and creation of community, after getting a panoramic of tools and interests, the group will be able to propose a collaborative exercise in order to  complete the experience.
 </p>
 <p>
-**Dates:** 22nd to 26th July. 15:00-20:00h
+<strong>Dates</strong> 22nd to 26th July. 15:00-20:00h
 </p>
 <p>
 **Program:
@@ -69,7 +69,7 @@ Last day:
 &nbsp;&nbsp;&nbsp;Results and conclusion of the working sessions: analysis of the perspectives of open software for audiovisual, new contacts and possibilities of future collaboration.
 </p>
 <p>
-**Requirements**
+<strong>Requirements</strong>
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;- This activity is aimed to artist, programmer, people in general interested in audiovisual digital arts with free software.<br />
@@ -78,15 +78,15 @@ Last day:
 &nbsp;&nbsp;&nbsp;- Note: Time is limited in order to record sources you also can bring your own sources of image, video, sounds, what you like to share in a collaborative job.
 </p>
 <p>
-**Number of participants:**
+<strong>Number of participants:</strong>
 <br />
 Min: 4 people<br />
 Max: 15 people
 </p>
 <p>
-[**APPLY**](https://www.jaaga.in/floss)
+<a href="https://www.jaaga.in/floss/"><strong>APPLY</strong></a>
 </p>
 <p>
-[JAAGA](https://www.jaaga.in/dna-projects), Malleshwaram, Bengaluru
+<a href="https://www.jaaga.in/dna-projects"><strong>JAAGA</strong></a>, Malleshwaram, Bengaluru
 </p>
 <br />
