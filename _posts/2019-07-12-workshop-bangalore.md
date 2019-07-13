@@ -39,8 +39,8 @@ Although the focus is mainly the process and creation of community, after gettin
 <strong>Dates</strong> 22nd to 26th July. 15:00-20:00h
 </p>
 <p>
-**Program:
-**</p>
+<strong>Program</strong>
+</p>
 <p>
 First day:
 </p>
