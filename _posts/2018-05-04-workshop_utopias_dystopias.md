@@ -4,7 +4,7 @@ title: "Workshop: utopias and dystopias of free software"
 image:
   teaser: workshop-u-dis-topias-teaser.jpg
 ---  
-<iframe width="810" height="455" src="https://peertube.social/videos/embed/eef713b0-8f74-44e5-b49f-aa6727bbd005" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://peertube.social/videos/embed/eef713b0-8f74-44e5-b49f-aa6727bbd005" frameborder="0" allowfullscreen></iframe>
 
 The workshop consisted in making different exercises and dynamics to get in a collaborative way some narratives about the future in relation to digital technologies.
 One of the objetives of the workshop was to realize how the collective imaginary is being built nowdays and the role and influence of digital technologies have in the process, to be aware of our fears, alienation and how utopia-dystopia are two sides of the same coin. Another goal was to get some ideas for a plot that could be used in a future audiovisual job. 
