@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Contac"
+layout: article
+title: "Contact"
 lang: en
 permalink: /contact/
 published: true
