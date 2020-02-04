@@ -13,9 +13,9 @@ The tools used are Face OSC + BLender.
 </p>
 <p>
  The process is documented in the following links:<br>
-  [http://8d2.es/course/view.php?id=37#section-1](http://8d2.es/course/view.php?id=37#section-1)<br>
-  [https://tree.taiga.io/project/avfloss-mocap/kanban](https://tree.taiga.io/project/avfloss-mocap/kanban)<br>
-  [https://github.com/AVFLOSS/MOCAP](https://github.com/AVFLOSS/MOCAP)
+  <a href="http://8d2.es/course/view.php?id=37#section-1">http://8d2.es/course/view.php?id=37#section-1</a> <br>
+  <a href="https://tree.taiga.io/project/avfloss-mocap/kanban">https://tree.taiga.io/project/avfloss-mocap/kanban</a> <br>
+  <a href="https://github.com/AVFLOSS/MOCAP">https://github.com/AVFLOSS/MOCAP</a>
 </p>
 
 
