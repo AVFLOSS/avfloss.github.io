@@ -9,7 +9,7 @@ image:
 </p>
 <p>
     It shows the current state of the experimentation that has been carried out to establish a workflow with free software.<br>
-The tools used are Face OSC + BLender.
+The tools used are Face OSC + Blender.
 </p>
 <p>
  The process is documented in the following links:<br>
